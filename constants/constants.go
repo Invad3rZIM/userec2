@@ -4,7 +4,7 @@ const HYPEMAN = "Hypeman"
 const METADATA = "Metadata"
 
 const S3_REGION = "us-east-1"
-const S3_BUCKET = "hypemans3"
+const S3_BUCKET = "hypeman-profiles"
 
 const TODAY = "TODAY"
 

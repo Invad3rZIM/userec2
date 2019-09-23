@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"hypeman-videouploader/constants"
-	"hypeman-videouploader/handler"
+	"hypeman-userec2/constants"
+	"hypeman-userec2/handler"
 
 	"github.com/go-redis/redis"
 	log "github.com/sirupsen/logrus"

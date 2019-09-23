@@ -7,7 +7,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"gopkg.in/mgo.v2/bson"
 
-	"hypeman-videouploader/constants"
+	"hypeman-userec2/constants"
 )
 
 type Database struct {

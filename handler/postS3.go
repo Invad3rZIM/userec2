@@ -2,7 +2,7 @@ package handler
 
 import (
 	"bytes"
-	"hypeman-videouploader/constants"
+	"hypeman-userec2/constants"
 	"net/http"
 	"os"
 
